@@ -1,0 +1,2 @@
+(this.webpackJsonpmovie_app_2021=this.webpackJsonpmovie_app_2021||[]).push([[0],{29:function(e,t,n){"use strict";n.r(t);n(0);var o=n(12),a=n.n(o),c=n(13),r=n(1),i=n(6);var p=function(){return Object(i.jsx)("div",{children:"About page is making now"})};var s=function(){return Object(i.jsx)(c.a,{children:Object(i.jsx)(r.a,{path:"/about",component:p})})};a.a.render(Object(i.jsx)(s,{}),document.getElementById("root"))}},[[29,1,2]]]);
+//# sourceMappingURL=main.76f513ea.chunk.js.map
