@@ -6,3 +6,4 @@ TODO
 just finished 2021.10.11
 1. navBar CSS (LEFT SIDE BAR)
 2. detailPAge CSS
+# commitTest
